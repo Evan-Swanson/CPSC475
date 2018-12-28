@@ -1,0 +1,8 @@
+S : NV | XV | VN | ZP | VP | book | include | prefer
+X : AN
+N : I | she | me | TWA | Houston | DM
+M :  book | flight | meal | money | MU | M
+V : VN | ZP | VP | book | include | prefer
+Z : VP
+P : PN | through
+D : the
